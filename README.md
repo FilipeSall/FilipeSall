@@ -19,5 +19,6 @@
     <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white&style=flat-square" alt="Netlify"> 
     <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=black&style=flat-square" alt="Webpack"> 
     <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=Babel&logoColor=black&style=flat-square" alt="Babel"> 
+    <img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white&style=flat-square" alt="Vercel">
     <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square" alt="Figma"> 
   </p>
