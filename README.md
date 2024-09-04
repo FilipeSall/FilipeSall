@@ -19,9 +19,5 @@
     <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white&style=flat-square" alt="Netlify"> 
     <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=black&style=flat-square" alt="Webpack"> 
     <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=Babel&logoColor=black&style=flat-square" alt="Babel"> 
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square" alt="Figma">
-  <p>
-      <img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white&style=flat-square" alt="Vercel"> </p> 
-      <img src="https://img.shields.io/badge/-Metodologias%20Ágeis-007396?logo=Agile&logoColor=white&style=flat-square" alt="Metodologias Ágeis"> 
-      <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?logo=Google%20Analytics&logoColor=white&style=flat-square" alt="Google Analytics"> </p>
-<p align="center"> <img src="https://media.giphy.com/media/xT0GqFyXk7fek7GljG/giphy.gif" width="30px"> Sempre em busca de novas tecnologias e desafios. Vamos construir algo incrível juntos! 🚀 </p>
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square" alt="Figma"> 
+  </p>
