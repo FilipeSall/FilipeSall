@@ -7,7 +7,6 @@
   <p> <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square" alt="Node.js"> 
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square" alt="Python"> 
     <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat-square" alt="PHP"> 
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat-square" alt="MongoDB"> 
     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL"> </p> 
   <p> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=Tailwind%20CSS&logoColor=white&style=flat-square" alt="Tailwind CSS"> 
       <img src="https://img.shields.io/badge/-SCSS-CC6699?logo=Sass&logoColor=white&style=flat-square" alt="SCSS"> 
