@@ -44,10 +44,10 @@
 <h2 align="center">🌍 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipe-salles" target="_blank">
+  <a href="[https://www.linkedin.com/in/filipe-salles](https://www.linkedin.com/in/filipe-salles-69aa38163/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:filipe@example.com">
+  <a href="mailto:filipesallesdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
