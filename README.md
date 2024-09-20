@@ -1,23 +1,54 @@
-<h2 align="left">💻 Tecnologias e Ferramentas:</h2> <p> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square" alt="JavaScript"> 
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=TypeScript&logoColor=white&style=flat-square" alt="TypeScript"> 
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black&style=flat-square" alt="React"> 
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white&style=flat-square" alt="Next.js"> 
-  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=white&style=flat-square" alt="WordPress"> 
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black&style=flat-square" alt="Firebase"> </p> 
-  <p> <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat-square" alt="Node.js"> 
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square" alt="Python"> 
-    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat-square" alt="PHP"> 
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL"> </p> 
-  <p> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=Tailwind%20CSS&logoColor=white&style=flat-square" alt="Tailwind CSS"> 
-      <img src="https://img.shields.io/badge/-SCSS-CC6699?logo=Sass&logoColor=white&style=flat-square" alt="SCSS"> 
-      <img src="https://img.shields.io/badge/-StyledComponents-DB7093?logo=styled-components&logoColor=white&style=flat-square" alt="StyledComponents"> 
-      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat-square" alt="Bootstrap"> 
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat-square" alt="CSS3"> </p> 
-  <p> <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat-square" alt="Git"> 
-    <img src="https://img.shields.io/badge/-GitHub%20Pages-181717?logo=GitHub%20Pages&logoColor=white&style=flat-square" alt="GitHub Pages"> 
-    <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=Netlify&logoColor=white&style=flat-square" alt="Netlify"> 
-    <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=black&style=flat-square" alt="Webpack"> 
-    <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=Babel&logoColor=black&style=flat-square" alt="Babel"> 
-    <img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white&style=flat-square" alt="Vercel">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square" alt="Figma"> 
-  </p>
+<h1 align="left">Hello, I'm Filipe!</h1>
+
+###
+
+<p align="left">Full-stack Web Developer I am a web developer specializing in React.js, Node.js, Typescript, and PostgreSQL. I also have extensive experience in creating websites with PHP, WordPress, and Firebase.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FilipeSall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=FilipeSall&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
