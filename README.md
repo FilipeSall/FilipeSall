@@ -1,8 +1,7 @@
 <h1 align="center">Hello, I'm Filipe! 👋</h1>
 
 <p align="center">
-  <b>Full-stack Web Developer</b><br/>
-  Passionate about crafting efficient and scalable web solutions.
+  <b>Web Developer</b><br/>
 </p>
 
 <p align="center">
